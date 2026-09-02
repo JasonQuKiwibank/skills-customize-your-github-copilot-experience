@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file input and output, and text manipulation in Python.",
+      "path": "assignments/text-processing",
+      "dueDate": "2026-09-09"
     }
   ]
 }
